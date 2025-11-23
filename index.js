@@ -82,7 +82,7 @@
     // Internationalization (i18n)
     const translations = {
         fr: {
-            appTitle: "Nebula",
+            appTitle: "Khadija",
             appSubtitle: "Votre assistant pour la plateforme Nebula",
             settingsTitle: "Paramètres",
             uiLanguage: "Langue de l'interface",
@@ -174,7 +174,7 @@
             noVoiceAvailable: "Aucune voix disponible",
         },
         wo: {
-            appTitle: "Ndimalu Nebula",
+            appTitle: "Khadija",
             appSubtitle: "Sa ndimal ngir jot ci ay ressources ci Nebula",
             settingsTitle: "Paramètres",
             uiLanguage: "Làkku Interface",
@@ -266,7 +266,7 @@
             noVoiceAvailable: "Amul benn baat",
         },
         ar: {
-            appTitle: "مساعد Nebula",
+            appTitle: "Khadija",
             appSubtitle: "مساعدتك لمنصة Nebula",
             settingsTitle: "الإعدادات",
             uiLanguage: "لغة الواجهة",
