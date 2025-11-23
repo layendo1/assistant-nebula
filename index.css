@@ -33,8 +33,8 @@
 }
 
 [data-theme="dark"] {
-    --primary-color-start: #D4AF37;
-    --primary-color-end: #B89B31;
+    --primary-color-start: #504315;
+    --primary-color-end: #786518;
     --accent-color: #D4AF37;
     --success-color: #20c997;
     --danger-color: #ff6b6b;
