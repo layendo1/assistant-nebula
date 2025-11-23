@@ -1,6 +1,6 @@
 {
-  "name": "Assistant SenProf",
-  "description": "Votre assistant pour accéder à des ressources éducatives numériques sur senprof",
+  "name": "Khaija",
+  "description": "Votre assistant pour accéder à des ressources éducatives numériques sur Nebula",
   "requestFramePermissions": [
     "microphone"
   ]
