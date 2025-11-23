@@ -25,8 +25,8 @@
   --disabled-opacity: 0.7;
   
   --font-family: 'Poppins', 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
-  --border-radius: 12px;
-  --box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  --border-radius: 20px;
+  --box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
   --modal-overlay-bg: rgba(0, 0, 0, 0.5);
 
   --font-size-normal: 1rem;
