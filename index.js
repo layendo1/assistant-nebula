@@ -804,7 +804,7 @@ ${profileContext}
         button.setAttribute('aria-label', t.pauseAudioTooltip);
         messageElement.classList.add('speaking-aloud');
 
-        const API_KEY = "AIzaSyC8y0956BVOV7YDFTJtQZJnENMKtX8CQMQ";
+        const API_KEY = "AIzaSyA5uH0hPssBKyM6bIZ_aoHPbqikTmSvUHY";
         if (isGoogleTtsAvailable && API_KEY) {
             try {
                 const response = await fetch(`https://texttospeech.googleapis.com/v1/text:synthesize?key=${API_KEY}`, {
